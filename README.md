@@ -1,30 +1,26 @@
-<div style="text-align: center;">
-    <img src="./gifs/penguin.gif" alt="Penguin GIF" style="width: 700px; height: 400px;">
+<div align="center">
+    <img src="./gifs/penguin.gif" alt="Penguin GIF" width="700" height="400">
 </div>
 <br>
-<div style="text-align: center;">
-    <strong style="font-size:15px"><em>Knowing everything is impossible, but the desire to learn something new every day is what makes us <div style="font-size:30px">UNSTOPPABLE.</div></em></strong>
+<div align="center">
+    <strong style="font-size:15px"><em>Knowing everything is impossible, but the desire to learn something new every day is what makes us <span style="font-size:30px">UNSTOPPABLE.</span></em></strong>
 </div>
 <br>
+
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm [Ahmed Bassam](https://www.linkedin.com/in/ahmed-bassam-26255719b/)
+---
 <br>
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm [Ahmed Bassam](https://www.linkedin.com/in/ahmed-bassam-26255719b/)
-====================================================================================================================================
-<br>
-<br>
-<div style="display: flex; align-items: center;">
-    <img src="./gifs/about.gif" alt="About GIF" style="width: 70px; height: 70px; margin-right: 10px;">
-    <h1 style="font-size: 2em; margin: 0;">About Me</h1>
+<div align="left">
+    <img src="./gifs/about.gif" alt="About GIF" width="70" height="70" style="vertical-align: middle;">
+    <h1 style="display: inline; font-size: 2em; margin: 0;">About Me</h1>
 </div>
-<hr style="border: none; border-top: 1px solid #ccc; margin-top: 5px;">
+<hr>
+<br>
 
-* 🧑‍💻 Software Engineer [@Takhial](), a company focused on developing AI software applications to big organizations
-
-* 🎓 Bachelor of Engineering in Communication and Information
-and Software Engineering Minor at [Zewail City of Science and Technology ](https://www.linkedin.com/school/zewailcityst/posts/?feedView=all)
-
-* 📖 Currently Reading: ```The Art of PostgreSQL``` by [@Dimitri Fontaine](https://tapoueh.org/about/) & [K8s Docs](https://kubernetes.io/docs/home/)
-
+* 🧑‍💻 Software Engineer [@Takhial](), a company focused on developing AI software applications for big organizations.
+* 🎓 Bachelor of Engineering in Communication and Information and Software Engineering Minor at [Zewail City of Science and Technology](https://www.linkedin.com/school/zewailcityst/posts/?feedView=all).
+* 📖 Currently Reading: ```The Art of PostgreSQL``` by [@Dimitri Fontaine](https://tapoueh.org/about/) & [K8s Docs](https://kubernetes.io/docs/home/).
 * ❤️ I'm Passionate about Software Engineering, Data Science, Cyber Security. What? This is my heart I can't control it.
 ### Skills
 
