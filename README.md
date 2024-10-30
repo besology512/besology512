@@ -35,7 +35,7 @@
 * 📖 Currently Reading: ```The Art of PostgreSQL``` by [@Dimitri Fontaine](https://tapoueh.org/about/) & [K8s Docs](https://kubernetes.io/docs/home/).
 * ❤️ I'm Passionate about Software Engineering, Data Science, Cyber Security. What? This is my heart I can't control it.
 * 🚧 I'm currently focused to understand K8S, PostgreSQL, conversational ai.
-* 🥷 Trying to imprve my skills in Problem Solving
+* 🥷 Trying to improve my skills in Problem Solving
 <br>
 <br>
 
