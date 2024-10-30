@@ -12,10 +12,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ====================================================================================================================================
 <br>
 <br>
-<div style="display: flex; align-items: center;">
-    <img src="./gifs/about.gif" alt="About GIF" style="width: 70px; height: 70px; margin-right: 10px;">
-    <h1 style="font-size: 2em; margin: 0;">About Me</h1>
-</div>
+# <img src="./gifs/about.gif" width="50" draggable="false" > About me
+
 <hr style="border: none; border-top: 1px solid #ccc; margin-top: 5px;">
 
 * 🧑‍💻 Software Engineer [@Takhial](), a company focused on developing AI software applications to big organizations
